@@ -1,5 +1,5 @@
 # SSED Workshop
 
-A simple todo application built with Express and TypeScript.
+A simple todo application built with Express and TypeScript..
 
 
